@@ -1,1 +1,3 @@
 # Music-250a-Project
+
+The Seesawtooth is an instrument that uses the interface of a seesaw to produce harsh noisy tones. There are two piezo mics on either side of the seesaw that pick up the sound of each side hitting the bottom. Additionally, for expressivity, the seesaw is made of flexible plastic that I attached two flex sensors to. On the right side, the more bent the seesaw, the lower the pitch and longer the duration of the tone. On the left side, the more bent the seesaw, the more distorted the sound will be. I attached two potentiometers to either side of the box, which control global pitch and global sustain. My project is a simple instrument that I will definitely use to create harsh noise music in the future!
